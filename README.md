@@ -1,2 +1,2 @@
 # headstart-lockedIn
-AI that read facial sentiments. 
+This project is an AI that read facial sentiments and gives feedback
